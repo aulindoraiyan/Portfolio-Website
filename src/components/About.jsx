@@ -60,8 +60,7 @@ const About = () => {
       variants={fadeIn("", "", 0.1, 1)}
       className = "mt-4 text-secondarytext-[17px] max-w-3x leading-[30px]"
     >
-      I'm pursuing Bachelor in Computer Science with a Software Design and Development track and a Minor in Mathematical Science. <br/>
-      I aspire to pursue a Ph.D. focused on the applications of AI or machine learning in healthcare, with a particular emphasis on the potential <br/>benefits of brain mapping.
+      As a Computer Science student at FIU, I got my first Software Engineering Internship during my freshman year, and it was a transformative experience that ignited my passion for the world of software. I possess a coachable mindset and a strong work ethic built on principles of discipline, punctuality, and effective collaboration. I am fully committed to making a profound impact in the world of software development through continuous growth and meaningful contributions.
 
     </motion.p>
 
