@@ -59,6 +59,7 @@ useEffect(() => {
 
   return (
     <Canvas
+      frameLoop= "demand"
       shadows
       camera = {{position: [20, 3, 5], fav:25}}
       gl = {{preserveDrawingBuffer: true}}
