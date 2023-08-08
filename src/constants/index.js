@@ -226,7 +226,7 @@ const projects = [
             },
         ],
         image: BMS,
-        source_code_link: "https://github.com/aulindoraiyan/Bank-Management-System",
+        source_code_link: "https://www.linkedin.com/feed/update/urn:li:activity:7063605752241778688/",
     },
     {
         name: "Face Recognition Attendance System",
@@ -244,7 +244,7 @@ const projects = [
 
         ],
         image: background,
-        source_code_link: "https://github.com/aulindoraiyan/Face-recognition",
+        source_code_link: "https://www.linkedin.com/feed/update/urn:li:activity:7068720933498179584/",
     },
     {
         name: "Homys: A Real Estate website",
@@ -265,7 +265,7 @@ const projects = [
             },
         ],
         image: REW,
-        source_code_link: "https://github.com/aulindoraiyan/Homys-A_RealEstate_Website",
+        source_code_link: "https://www.linkedin.com/feed/update/urn:li:activity:7066927016465297408/",
     },
     {
         name: "We Care- A food donation website",
@@ -286,7 +286,7 @@ const projects = [
             },
         ],
         image: tripguide,
-        source_code_link: "https://github.com/aulindoraiyan/We_Care",
+        source_code_link: "https://www.linkedin.com/feed/update/urn:li:activity:7060957579425771520/",
     },
 ];
 
